@@ -4,9 +4,9 @@
 
 ## fingerprint-door-lock
 
-* [Page 1](fingerprint-door-lock/page-1/README.md)
-  * [Page 2](fingerprint-door-lock/page-1/page-2.md)
-  * [阿斯顿发水淀粉](fingerprint-door-lock/page-1/a-si-dun-fa-shui-dian-fen.md)
+* [FAQ](fingerprint-door-lock/faq/README.md)
+  * [how-to-connect](fingerprint-door-lock/faq/how-to-connect.md)
+  * [troubleshooting-connection](fingerprint-door-lock/faq/troubleshooting-connection.md)
 
 ## FAQ
 
